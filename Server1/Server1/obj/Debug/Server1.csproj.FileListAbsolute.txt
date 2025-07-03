@@ -1,0 +1,7 @@
+C:\Users\Nazar\source\repos\Server1\Server1\bin\Debug\Server1.exe.config
+C:\Users\Nazar\source\repos\Server1\Server1\bin\Debug\Server1.exe
+C:\Users\Nazar\source\repos\Server1\Server1\bin\Debug\Server1.pdb
+C:\Users\Nazar\source\repos\Server1\Server1\obj\Debug\Server1.csproj.AssemblyReference.cache
+C:\Users\Nazar\source\repos\Server1\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\source\repos\Server1\Server1\obj\Debug\Server1.exe
+C:\Users\Nazar\source\repos\Server1\Server1\obj\Debug\Server1.pdb
